@@ -1,0 +1,8 @@
+current directory: /Users/yamada33/OneDrive/private/develop/docker-practice/about-comopse/vendor/bundle/ruby/2.6.0/gems/racc-1.5.2/ext/racc/cparse
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20211011-49051-n3a9u1.rb extconf.rb
+mkmf.rb can't find header files for ruby at /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/include/ruby.h
+
+You might have to install separate package for the ruby development
+environment, ruby-dev or ruby-devel for example.
+
+extconf failed, exit code 1
